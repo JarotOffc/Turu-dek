@@ -1,6 +1,7 @@
 # Modern Portfolio Website
 
-![Portfolio Preview](./images/demo.png)
+![Portfolio Preview](https://github.com/user-attachments/assets/07b2d472-d7c6-4203-8593-cc263cfbcc14)
+
 
 A modern, responsive portfolio website built with HTML, CSS, and JavaScript, featuring interactive animations, and dynamic content loading.
 

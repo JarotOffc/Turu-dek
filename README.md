@@ -4,6 +4,29 @@
 
 A modern, responsive portfolio website built with HTML, CSS, and JavaScript, featuring interactive animations, and dynamic content loading.
 
+## 🌐 Live Demo
+
+[View Live Demo](https://xnuvers007.github.io/myportfolio/)
+
+## 📝 Table of Contents
+
+- [✨ Features](#-features)
+- [🚀 Technologies Used](#-technologies-used)
+- [🛠️ Installation & Setup](#%EF%B8%8F-installation--setup)
+- [📂 Project Structure](#-project-structure)
+- [🎨 Customization](#-customization)
+- [📱 Responsive Breakpoints](#-responsive-breakpoints)
+
+## 📥 Download
+
+You can download the latest version of the project from the [Releases](https://github.com/Xnuvers007/portofolio/archive/refs/heads/main.zip) page.
+
+Alternatively, you can clone the repository using Git:
+
+```bash
+git clone https://github.com/Xnuvers007/portfolio.git
+```
+
 ## ✨ Features
 
 - **Responsive Design** - Optimized for all screen sizes
